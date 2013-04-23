@@ -72,6 +72,15 @@ Example creating a curry command with non-default name
 
         wiz unlink zack
 
+## Platform support
+
+Developed and tested on OS X.
+
+Should not have issues with Linux except for `wiz link` command.
+
+Windows is currently not supported. Hope to address this at some point.
+Any help in this regard is welcome.
+
 ## Caveats
 
 `wiz` has issues with **interactive command-line tools** and tools
