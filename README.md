@@ -1,5 +1,14 @@
 Makes command-line tools easier to use through implicit option files.
 
+Advantages over adding `alias` to `.bashrc`:
+
+1. folder specific options
+2. easier format for reading, editing, and sharing
+3. comments on options
+
+Only disadvantages I can see compared to adding `alias` is the need to
+install stuff. But then I'm biased. :-)
+
 ## Status
 
 I'm just getting started so do not consider anything bolted down until
