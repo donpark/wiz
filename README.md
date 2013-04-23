@@ -2,7 +2,7 @@ Makes command-line tools easier to use through implicit option files.
 
 ## Status
 
-I'm just getting started but do not consider anything bolted down until
+I'm just getting started so do not consider anything bolted down until
 version is at least `0.2.0`.
 
 ## Installation
